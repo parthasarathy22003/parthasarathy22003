@@ -1,6 +1,4 @@
 ## Hi there 👋
-
-<!--
 # 💻 Hi, I'm Parthasarathy!
 
 I'm a **Java Full-Stack Developer** with a passion for creating scalable web applications and seamless user experiences. As an ECE graduate, I bring a unique perspective to software development by combining engineering principles with cutting-edge technologies.
