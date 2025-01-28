@@ -71,9 +71,9 @@ A React app that fetches real-time weather data using an API.
 ---
 
 ## 🌟 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/YourGitHubUsername)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=about.me&logoColor=white)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parthasarathy-t-7a2b02225/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/parthasarathy22003)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=about.me&logoColor=white)](https://harmonious-churros-b977cf.netlify.app/)
 
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
