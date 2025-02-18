@@ -66,7 +66,7 @@ A React-based dynamic shopping platform.
 A React app that fetches real-time weather data using an API.
 
 **Tech Stack**: React, HTML, CSS, JavaScript  
-[View Project](#)
+[https://react-weather-nine-alpha.vercel.app/](#)
 
 ---
 
